@@ -1,1 +1,1 @@
-#### all about this repository is learning jest test
+### this repository is all about learning jest test

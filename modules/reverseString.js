@@ -3,3 +3,5 @@ const reverseString = function (str) {
 	str = str.reverse();
 	return str.join('');
 };
+
+export { reverseString };
